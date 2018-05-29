@@ -1,0 +1,11 @@
+D:\C#\OpenDataTest\OpenDataTest\bin\Debug\OpenDataTest.exe.config
+D:\C#\OpenDataTest\OpenDataTest\bin\Debug\OpenDataTest.exe
+D:\C#\OpenDataTest\OpenDataTest\bin\Debug\OpenDataTest.pdb
+D:\C#\OpenDataTest\OpenDataTest\bin\Debug\Newtonsoft.Json.dll
+D:\C#\OpenDataTest\OpenDataTest\bin\Debug\Newtonsoft.Json.xml
+D:\C#\OpenDataTest\OpenDataTest\obj\Debug\OpenDataTest.csprojResolveAssemblyReference.cache
+D:\C#\OpenDataTest\OpenDataTest\obj\Debug\OpenDataTest.Form1.resources
+D:\C#\OpenDataTest\OpenDataTest\obj\Debug\OpenDataTest.Properties.Resources.resources
+D:\C#\OpenDataTest\OpenDataTest\obj\Debug\OpenDataTest.csproj.GenerateResource.Cache
+D:\C#\OpenDataTest\OpenDataTest\obj\Debug\OpenDataTest.exe
+D:\C#\OpenDataTest\OpenDataTest\obj\Debug\OpenDataTest.pdb
